@@ -35,4 +35,4 @@
 
 ---
           
-<img src="https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8" alt="Tech banner" />
+<img src="./florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Tech banner" />
