@@ -34,7 +34,5 @@
 | **E-learning Platform** | Microservices system with user auth, caching, and voting system using blockchain |
 
 ---
-
-
-              
+          
 <img src="https://source.unsplash.com/1600x400/?technology,cybersecurity,code" alt="Tech banner" />
