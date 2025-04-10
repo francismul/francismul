@@ -35,4 +35,4 @@
 
 ---
           
-<img src="https://source.unsplash.com/1600x400/?technology,cybersecurity,code" alt="Tech banner" />
+<img src="https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8" alt="Tech banner" />
