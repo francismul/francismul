@@ -35,4 +35,23 @@
 
 ---
           
-<img src="./florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Tech banner" />
+<div align="center">
+  <img src="./florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Tech banner"
+       style="border-radius: 20px; max-width: 100%; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);" />
+  <br><br>
+  <blockquote align="center">
+  <em>"From passion to project — one commit at a time."</em><br>
+  <em>"Dream big. Build bigger."</em><br>
+  <em>"Building the future one line at a time."</em>
+    <em><strong>"Code is the brush. Imagination is the canvas."</strong></em>
+</blockquote>
+</div>
+
+
+---
+
+### 🚧 Currently Building
+
+- 🎵 A fully-featured **music player** with visualization and Opus support  
+- 🛡️ A secure **bug tracking system** with GitHub integration  
+- 📚 An **e-learning platform** powered by microservices and blockchain
