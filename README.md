@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="226" src="https://media.giphy.com/media/R3MokxJX5SWdF2HcWl/giphy.gif?cid=ecf05e47d6v21rmjnerkg6pratxna9wdcicr871bo0t3hm5e&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="226" style="object-fit:cover; width: 100%;" src="barner.gif" alt="Barner Image"  />
 </div>
 
 ###
