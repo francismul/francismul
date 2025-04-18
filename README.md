@@ -23,7 +23,9 @@
 
 ###
 
-<p align="center">Computer Science Student<br>Exploring Back-end, Cybersecurity, Blockchain, Machine Learning, and Systems Programming<br>Enjoy solving real-world problems with code<br>Currently Working on:<br>A Music Player with audio visualization (Python)<br>A Banking System CLI App<br>A Bug Tracking System for dev communities<br>A Microservices-based E-learning Platfdorm with voting via Blockchain<br>Experimenting with Vim, Linux, Kivy, and React.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+Back-end%2C+Cybersecurity%2C+Blockchain%2C+Machine+Learning%2C+and+Systems+Programming;Enjoy+solving+real-world+problems+with+code;Currently+Working+on:;A+Music+Player+with+audio+visualization;A+Banking+System+CLI+App;A+Bug+Tracking+System+for+dev+communities;A+Microservices+based+E-learning+Platform;Trying+out+Vim%2C+Linux%2C+Kivy%2C+and+React" alt="Typing SVG" />
+</p>
 
 ---
 
