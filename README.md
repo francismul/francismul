@@ -103,15 +103,15 @@ quirks:
 $ git clone https://github.com/francismul/experiments.git
 
 # Brew some ideas
-$ npm install curiosity --save-dev
+$ node quotes.js
 
 # Run exploration mode
-$ npm run dev:matrix
+$ node chaos.js
 
-# Convert video -> audio in style
-$ ffmpeg -i input.mp4 -vn output.m4a
+# Secret Easter Egg 🥚 (Windows - powershell)
+$ [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes("Keep hacking reality"))
 
-# Secret Easter Egg 🥚
+# Secret Easter Egg 🥚 (Unix)
 $ echo "Keep hacking reality" | base64
 ```
 
@@ -175,17 +175,6 @@ Loading wisdom... ████████████████ 100%
 ```
 
 ---
-
-**Visitor Counter:** ![Visitor Count](https://profile-counter.glitch.me/francismul/francismul/count.svg)
-
-```ascii
-┌─ Thanks for visiting! ─┐
-│                        │
-│  🚀 Stay curious,       │
-│     stay coding!        │
-│                        │
-└────────────────────────┘
-```
 
 </div>
 
