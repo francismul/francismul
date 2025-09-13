@@ -181,7 +181,3 @@ Loading wisdom... ████████████████ 100%
 <!-- Hidden Easter Egg #1: If you're reading this, you're a true dev 🥚 -->
 
 <!-- Easter Egg #2: Konami Code: ↑ ↑ ↓ ↓ ← → ← → B A -->
-
-<!-- Easter Egg #3: "Neo" is hidden in this README. Find it! -->
-
----
